@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <head>
+            <h1>
+              <p>Welcome to my CTI 110 Course Page</p>
+            </h1>
+        </head>
+    </header>
+    <body>
+        <p>
+<a href="https://www.google.com/">Google</a>
+<a href="https://www.yahoo.com/">Yahoo</a>
+<a href="https://www.w3schools.com/">Web Turorial</a>
+        </p>
+        <TABLE Border="4">
+    <TR>
+        <TD>Cindy</TD>
+        <TD>Programming</TD>
+    </TR>
+    <TR>
+    <TD>Alison</TD>
+    <TD>Web Technology</TD>
+      </TR>
+      <TR>
+        <TD>Peter</TD>
+        <TD>Database</TD>
+      </TR>
+      </TABLE>
+    </body>
+</html>
